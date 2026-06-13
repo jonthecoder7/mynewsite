@@ -1,19 +1,19 @@
-#[[main]]
+[[main]]
   name = "Work"
-  pageRef = "work"
+  url = "/work/"
   weight = 10
 
 [[main]]
   name = "Services"
-  pageRef = "services"
+  url = "/services/"
   weight = 20
 
 [[footer]]
   name = "Work"
-  pageRef = "work"
+  url = "/work/"
   weight = 10
 
 [[footer]]
   name = "Services"
-  pageRef = "services"
+  url = "/services/"
   weight = 20
