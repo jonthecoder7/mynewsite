@@ -1,3 +1,4 @@
+---
 Title: "Services & Pricing"
 date: 2026-09-01
 description: "Editing, planning, and posting for Richmond and Petersburg small businesses — professional short-form content, no in-person shoot required."
