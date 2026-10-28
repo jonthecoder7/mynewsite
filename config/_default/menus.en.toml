@@ -17,8 +17,3 @@
   name = "Aulas de inglês"
   url = "/aulas-de-ingles/"
   weight = 20
-
-[[footer]]
-  name = "Video work"
-  url = "/services/"
-  weight = 30

@@ -42,13 +42,13 @@ Choose a time
 
 ### Single class
 
-PRICE_HERE per class
+$30 per class
 
 {{< paypal id="S7GUFAZTTVEJC" >}}
 
 ### 4-class pack
 
-PRICE_HERE for 4 classes
+$100 for 4 classes
 
 {{< paypal id="TVZ9PMDLYVPKJ" >}}
 
