@@ -44,14 +44,15 @@ Choose a time
 
 PRICE_HERE per class
 
-{{< paypal id="PASTE_BUTTON_ID_SINGLE" >}}
+{{< paypal id="S7GUFAZTTVEJC" >}}
 
 ### 4-class pack
 
 PRICE_HERE for 4 classes
 
-{{< paypal id="PASTE_BUTTON_ID_PACK4" >}}
+{{< paypal id="TVZ9PMDLYVPKJ" >}}
 
 **Step 3.** You will get your Google Meet link by email.
 
 Questions? Write to [lavontes@mineyourownblackbusiness.media](mailto:lavontes@mineyourownblackbusiness.media).
+	

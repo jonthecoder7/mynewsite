@@ -38,13 +38,13 @@ Escolher horário
 
 R$ PRICE_HERE por aula
 
-{{< paypal id="PASTE_BUTTON_ID_AVULSA" currency="BRL" >}}
+{{< paypal id="MRHMFCEWF6ETA" currency="BRL" >}}
 
 ### Pacote com 4 aulas
 
 R$ PRICE_HERE pelas 4 aulas
 
-{{< paypal id="PASTE_BUTTON_ID_PACOTE4" currency="BRL" >}}
+{{< paypal id="CCTFXA23KMN3J" currency="BRL" >}}
 
 Prefere pagar por Pix? Me chame que eu envio os dados.
 

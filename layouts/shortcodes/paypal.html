@@ -1,0 +1,19 @@
+{{- /*
+  PayPal hosted button.
+  Usage:   {{< paypal id="YOUR_BUTTON_ID" >}}
+           {{< paypal id="YOUR_BUTTON_ID" currency="BRL" >}}
+  The client ID comes from languages.en.toml (params.paypalClientId).
+  PayPal rule: every button on one page must use the same currency,
+  and every button needs its own unique id.
+*/ -}}
+{{- $id := .Get "id" -}}
+{{- $currency := .Get "currency" | default "USD" -}}
+{{- $client := site.Params.paypalClientId -}}
+{{- if not (.Page.Store.Get "paypalSdkLoaded") -}}
+  {{- .Page.Store.Set "paypalSdkLoaded" true -}}
+  <script src="https://www.paypal.com/sdk/js?client-id={{ $client }}&components=hosted-buttons&disable-funding=venmo&currency={{ $currency }}"></script>
+{{- end -}}
+<div id="paypal-container-{{ $id }}" style="max-width: 24rem; margin: 1.5rem 0;"></div>
+<script>
+  paypal.HostedButtons({ hostedButtonId: "{{ $id }}" }).render("#paypal-container-{{ $id }}");
+</script>
