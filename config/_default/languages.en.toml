@@ -11,8 +11,7 @@ title = "Lavonte | Portuguese & English Classes"
   dateFormat = "2 January 2006"
   description = "Online Portuguese classes for English speakers, and aulas de inglês para brasileiros."
   # Your PayPal client ID (from the button embed code). It is public, not a secret.
-  paypalClientId = "BAA9YMbQo5oMmewoUiGf_H6gPFeb368P9lwgekXxBCH7VKEE5VWIB79U3NLS7b_VD7EBsRm7eTt2H_MGT4&components=hosted-buttons&enable-funding=venmo&currency=USD"
-
+paypalClientId = "BAA9YMbQo5oMmewoUiGf_H6gPFeb368P9lwgekXxBCH7VKEE5VWIB79U3NLS7b_VD7EBsRm7eTt2H_MGT4"
 [params.author]
   name = "Lavonte"
   headline = "Portuguese & English teacher · online"
