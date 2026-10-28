@@ -1,19 +1,24 @@
 [[main]]
-  name = "Work"
-  url = "/work/"
+  name = "Portuguese"
+  url = "/portuguese/"
   weight = 10
 
 [[main]]
-  name = "Services"
-  url = "/services/"
+  name = "Aulas de inglês"
+  url = "/aulas-de-ingles/"
   weight = 20
 
 [[footer]]
-  name = "Work"
-  url = "/work/"
+  name = "Portuguese"
+  url = "/portuguese/"
   weight = 10
 
 [[footer]]
-  name = "Services"
-  url = "/services/"
+  name = "Aulas de inglês"
+  url = "/aulas-de-ingles/"
   weight = 20
+
+[[footer]]
+  name = "Video work"
+  url = "/services/"
+  weight = 30

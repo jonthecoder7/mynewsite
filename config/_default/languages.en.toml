@@ -2,19 +2,21 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Mine Your Own Black Business"
+title = "Lavonte | Portuguese & English Classes"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  description = "Documentary founder films for independent restaurants and small businesses in Richmond, VA."
+  description = "Online Portuguese classes for English speakers, and aulas de inglês para brasileiros."
+  # Your PayPal client ID (from the button embed code). It is public, not a secret.
+  paypalClientId = "PASTE_YOUR_PAYPAL_CLIENT_ID_HERE"
 
 [params.author]
   name = "Lavonte"
-  headline = "Video editor & content director · Richmond // Peterburg, VA"
-  bio = "You film it on your phone. I tell you what to shoot and turn it into content that performs."
+  headline = "Portuguese & English teacher · online"
+  bio = "I lived in Brazil, taught English there, and speak Portuguese fluently. I teach the way people really talk."
   links = [
     { instagram = "https://instagram.com/minedmedia_10" },
     { email = "mailto:lavontes@mineyourownblackbusiness.media" },
