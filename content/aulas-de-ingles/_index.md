@@ -36,13 +36,13 @@ Escolher horário
 
 ### Aula avulsa
 
-R$ PRICE_HERE por aula
+R$ 100 por aula
 
 {{< paypal id="MRHMFCEWF6ETA" currency="BRL" >}}
 
 ### Pacote com 4 aulas
 
-R$ PRICE_HERE pelas 4 aulas
+R$ 350 pelas 4 aulas
 
 {{< paypal id="CCTFXA23KMN3J" currency="BRL" >}}
 
