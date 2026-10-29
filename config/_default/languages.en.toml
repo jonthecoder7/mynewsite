@@ -17,6 +17,7 @@ paypalClientId = "BAA9YMbQo5oMmewoUiGf_H6gPFeb368P9lwgekXxBCH7VKEE5VWIB79U3NLS7b
   headline = "Portuguese & English teacher · online"
   bio = "I lived in Brazil, taught English there, and speak Portuguese fluently. I teach the way people really talk."
   links = [
-    { instagram = "https://instagram.com/minedmedia_10" },
+    { instagram = "https://instagram.com/aulasdepretugues" },
+    { tiktok = "https://instagram.com/aulasdepretugues" },
     { email = "mailto:lavonte@mineyourownblackbusiness.media" },
   ]
