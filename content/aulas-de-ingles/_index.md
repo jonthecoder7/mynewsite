@@ -51,7 +51,7 @@ Quer me conhecer antes de fechar um pacote? Faça uma aula experimental.
 
 **Passo 1. Escolha um horário.**
 
-{{< button href="BOOKING_LINK_HERE" >}}
+{{< button href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ014dEUQyJ8h7x-qfnS0_odf2cTfWT9n2LrhJwbGE0ig6HEcLT46DqCH5dq8L2CDEMJuUqFNoUY" >}}
 Escolher horário
 {{< /button >}}
 
