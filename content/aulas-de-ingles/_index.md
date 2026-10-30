@@ -18,17 +18,40 @@ Você entende, estuda há anos e mesmo assim trava na hora de falar? As minhas a
 
 ## Como funcionam as aulas
 
+Antes da primeira aula, você responde a um questionário rápido sobre seus objetivos, seu nível e o que você gosta. Com essas respostas, eu preparo cada aula pensando em você.
+
 - **Aulas particulares online**, pelo Google Meet.
 - **Você fala muito.** A aula é para praticar, não para ficar só ouvindo.
 - **Explico em português** quando você precisar, e voltamos para o inglês logo em seguida.
 - **Pronúncia sem mistério.** Trabalhamos os sons que mais atrapalham o brasileiro, como o R de *world*, com exemplos fáceis.
 - **Material depois da aula.** Anotações e exercícios para você praticar durante a semana.
 
+### Como é uma aula de 1 hora
+
+1. **Boas-vindas:** conversamos sobre o seu dia.
+2. **Conversa:** você fala, eu escuto e te ajudo com palavras novas.
+3. **Tema principal:** aprendemos algo útil, como trabalho, viagem ou o dia a dia.
+4. **Prática:** usamos o vocabulário novo em simulações e situações reais.
+5. **Encerramento:** dou um feedback e passo a lição de casa.
+
+## Aula experimental
+
+Quer me conhecer antes de fechar um pacote? Faça uma aula experimental.
+
+- **1 hora pelo Google Meet, R$ 50.**
+- É uma aula completa, igual às aulas regulares.
+- Eu avalio o seu nível e entendo os seus objetivos.
+- Você experimenta o meu jeito de ensinar.
+- No final, eu te conto no que podemos trabalhar daqui para frente.
+- **Se você continuar com o pacote de 4 aulas, os R$ 50 contam como parte do pagamento.** Você paga só R$ 300 a mais.
+
+{{< paypal id="TRIAL_PAYPAL_ID_HERE" currency="BRL" >}}
+
 ## Reserve sua aula
 
 **Passo 1. Escolha um horário.**
 
-{{< button href="BOOKING_LINK_HERE" >}}
+{{< button href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ014dEUQyJ8h7x-qfnS0_odf2cTfWT9n2LrhJwbGE0ig6HEcLT46DqCH5dq8L2CDEMJuUqFNoUY" >}}
 Escolher horário
 {{< /button >}}
 

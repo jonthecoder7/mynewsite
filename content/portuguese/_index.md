@@ -34,7 +34,7 @@ Brazilian Portuguese for real conversations, not textbook phrases.
 
 **Step 1. Pick a time.**
 
-{{< button href="BOOKING_LINK_HERE" >}}
+{{< button href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3nB-fT29G7hMwPGOWK7sWfVpzWNxkiqjFPqgkChOUFNh8rkQI0Yd0TtbF9m7zVJbTj7N3mK9RB" >}}
 Choose a time
 {{< /button >}}
 
