@@ -7,6 +7,12 @@ description: "Aulas particulares de inglês online, com explicações em portugu
 Inglês para a vida real, com um professor americano que morou no Brasil e fala português.
 {{< /lead >}}
 
+{{< wa-button href="https://wa.me/18047500939?text=Ol%C3%A1%21%20Quero%20agendar%20uma%20aula%20de%20ingl%C3%AAs." >}}
+Fale comigo no WhatsApp
+{{< /wa-button >}}
+
+*Primeiro me chame no WhatsApp. Depois combinamos o horário.*
+
 Você entende, estuda há anos e mesmo assim trava na hora de falar? As minhas aulas são feitas para resolver isso. Eu morei no Brasil, dei aula de inglês por lá e sei onde o brasileiro costuma tropeçar.
 
 ## Para quem são as aulas
@@ -49,13 +55,19 @@ Quer me conhecer antes de fechar um pacote? Faça uma aula experimental.
 
 ## Reserve sua aula
 
-**Passo 1. Escolha um horário.**
+**Passo 1. Me chame no WhatsApp.** Antes de agendar, mande uma mensagem para mim. Assim eu confirmo os horários disponíveis e tiro suas dúvidas.
+
+{{< wa-button href="https://wa.me/18047500939?text=Ol%C3%A1%21%20Quero%20agendar%20uma%20aula%20de%20ingl%C3%AAs." >}}
+Fale comigo no WhatsApp
+{{< /wa-button >}}
+
+**Passo 2. Escolha um horário** (depois de falar comigo).
 
 {{< button href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ014dEUQyJ8h7x-qfnS0_odf2cTfWT9n2LrhJwbGE0ig6HEcLT46DqCH5dq8L2CDEMJuUqFNoUY" >}}
 Escolher horário
 {{< /button >}}
 
-**Passo 2. Pague pelo PayPal** (conta PayPal ou cartão).
+**Passo 3. Pague pelo PayPal** (conta PayPal ou cartão).
 
 ### Aula avulsa
 
@@ -69,8 +81,8 @@ R$ 350 pelas 4 aulas
 
 {{< paypal id="CCTFXA23KMN3J" currency="BRL" >}}
 
-Prefere pagar por Pix? Me chame que eu envio os dados.
+Prefere pagar por Pix? Me chame no WhatsApp que eu envio os dados.
 
-**Passo 3.** Você recebe o link do Google Meet por e-mail.
+**Passo 4.** Você recebe o link do Google Meet por e-mail.
 
-Dúvidas? Escreva para [lavontes@mineyourownblackbusiness.media](mailto:lavontes@mineyourownblackbusiness.media).
+Dúvidas? Fale comigo no WhatsApp ou escreva para [lavontes@mineyourownblackbusiness.media](mailto:lavontes@mineyourownblackbusiness.media).
