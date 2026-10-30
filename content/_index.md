@@ -7,10 +7,18 @@ description: "Online Portuguese classes for English speakers, and aulas de ingl�
 Learn Portuguese or English with someone who has done both.
 Aprenda com quem já viveu os dois lados.
 {{< /lead >}}
-{{< button href="https://wa.me/18047500939?text=Hi%21%20Ol%C3%A1%21%20I%27d%20like%20to%20book%20a%20class%20%2F%20Quero%20agendar%20uma%20aula" target="_blank" >}}
-Message me on WhatsApp · Fale comigo no WhatsApp.
-{{< /button >}}
+
+{{< lead >}}
+Learn Portuguese or English with someone who has done both.
+Aprenda com quem já viveu os dois lados.
+{{< /lead >}}
+
+{{< wa-button href="https://wa.me/18047500939?text=Hi%21%20Ol%C3%A1%21%20I%27d%20like%20to%20book%20a%20class%20%2F%20Quero%20agendar%20uma%20aula" >}}
+Message me on WhatsApp · Fale comigo
+{{< /wa-button >}}
+
 I lived in Brazil, taught English there, and speak Portuguese fluently. My classes are private, online, and built around the way people really talk.
+
 ## Choose your class
 
 ### I want to learn Portuguese

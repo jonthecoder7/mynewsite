@@ -1,0 +1,8 @@
+.wa-btn {
+  background: rgba(var(--color-primary-600), 1);
+  box-shadow: 0 4px 14px rgba(var(--color-primary-600), 0.35);
+}
+.wa-btn:hover {
+  background: rgba(var(--color-primary-700), 1);
+  box-shadow: 0 8px 20px rgba(var(--color-primary-600), 0.4);
+}
