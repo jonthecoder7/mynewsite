@@ -1,8 +1,74 @@
 .wa-btn {
-  background: rgba(var(--color-primary-600), 1);
-  box-shadow: 0 4px 14px rgba(var(--color-primary-600), 0.35);
+  /* Layout: icon + text, centered, stays tidy at any width */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+
+  /* Touch-friendly size (44px+ is the mobile minimum) */
+  min-height: 48px;
+  padding: 0.75rem 1.5rem;
+
+  /* Look */
+  color: #fff;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.2;
+  text-decoration: none;
+  white-space: nowrap;
+  border: 0;
+  border-radius: 999px;
+  cursor: pointer;
+
+  /* Colors: fallback first, variable second (ignored if invalid) */
+  background: #16a34a;
+  background: rgb(var(--color-primary-600, 22 163 74));
+  box-shadow: 0 4px 14px rgb(var(--color-primary-600, 22 163 74) / 0.35);
+
+  transition: background 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+  -webkit-tap-highlight-color: transparent;
 }
-.wa-btn:hover {
-  background: rgba(var(--color-primary-700), 1);
-  box-shadow: 0 8px 20px rgba(var(--color-primary-600), 0.4);
+
+/* Fixes the oversized icon */
+.wa-btn svg,
+.wa-btn img,
+.wa-btn i {
+  width: 1.25em;
+  height: 1.25em;
+  flex-shrink: 0;   /* keeps it from squishing or stretching */
+  font-size: 1.25em; /* for icon fonts */
+}
+
+.wa-btn:hover,
+.wa-btn:focus-visible {
+  background: #15803d;
+  background: rgb(var(--color-primary-700, 21 128 61));
+  box-shadow: 0 8px 20px rgb(var(--color-primary-600, 22 163 74) / 0.4);
+  transform: translateY(-1px);
+}
+
+.wa-btn:active {
+  transform: translateY(0);
+}
+
+.wa-btn:focus-visible {
+  outline: 3px solid rgb(var(--color-primary-600, 22 163 74) / 0.4);
+  outline-offset: 3px;
+}
+
+/* Mobile: full-width, easy to tap, can wrap text */
+@media (max-width: 480px) {
+  .wa-btn {
+    display: flex;
+    width: 100%;
+    white-space: normal;
+    text-align: center;
+  }
+}
+
+/* Don't leave hover lift stuck on touch screens */
+@media (hover: none) {
+  .wa-btn:hover {
+    transform: none;
+  }
 }
