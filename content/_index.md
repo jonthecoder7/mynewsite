@@ -57,10 +57,11 @@ You don't need any Portuguese to start. Most of my Portuguese students know noth
 
 Send me a message and tell me about your goals. I'll tell you which class fits and what your first lesson would look like.
 
+{{< btn-row >}}
 {{< wa-button href="https://wa.me/18047500939?text=Hi%21%20I%27d%20like%20to%20start%20Portuguese%20classes." >}}
-Message me on WhatsApp (English)
+WhatsApp (English)
 {{< /wa-button >}}
-
 {{< wa-button href="https://wa.me/18047500939?text=Ol%C3%A1%21%20Quero%20agendar%20uma%20aula%20de%20ingl%C3%AAs." >}}
-Fale comigo no WhatsApp (Português)
+WhatsApp (Português)
 {{< /wa-button >}}
+{{< /btn-row >}}
