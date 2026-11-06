@@ -77,7 +77,7 @@ R$ 100 por aula
 
 ### Pacote com 4 aulas
 
-R$ 350 pelas 4 aulas
+R$ 360 pelas 4 aulas
 
 {{< paypal id="CCTFXA23KMN3J" currency="BRL" >}}
 
